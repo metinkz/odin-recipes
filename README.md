@@ -1,5 +1,9 @@
 # odin-recipes
 
-recipes for certain foods
+Recipes for certain foods
 
-what i have done(once it is finished)
+Added their ingredients, descriptions and how they will look once they are finished.
+
+Made the ingredients list on unordered list format.
+
+Linked pages open in new tab.
