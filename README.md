@@ -1,5 +1,7 @@
 # odin-recipes
 
+To live preview: https://metinkz.github.io/odin-recipes/
+
 Recipes for certain foods
 
 Added their ingredients, descriptions and how they will look once they are finished.
