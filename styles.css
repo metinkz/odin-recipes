@@ -1,0 +1,17 @@
+* {
+    background: antiquewhite;
+}
+
+h1,
+.recipe-names {
+    text-align: center;
+}
+
+.recipe-names {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0c6684;
+}
