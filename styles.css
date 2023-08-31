@@ -1,17 +1,36 @@
 * {
-    background: antiquewhite;
+  background: antiquewhite;
+}
+
+.last-section,
+.other-sections {
+  height: 60px;
+  border: dashed rgb(217, 168, 105);
+  padding-top: 30px;
+}
+
+.other-sections {
+  border-width: 2px 2px 0px 2px;
+}
+
+.last-section {
+  border-width: 2px;
 }
 
 h1,
 .recipe-names {
-    text-align: center;
+  text-align: center;
 }
 
 .recipe-names {
-    font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  font-size: x-large;
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #0c6684;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #0c6684;
 }
