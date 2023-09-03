@@ -34,3 +34,7 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   color: #0c6684;
 }
+
+.link {
+  list-style: none;
+}
